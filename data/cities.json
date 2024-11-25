@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "2a3f",
+      "cityName": "Toronto",
+      "country": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2024-11-25T04:13:09.632Z",
+      "notes": "",
+      "position": {
+        "lat": "43.65197548731187",
+        "lng": "-79.376220703125"
+      }
+    },
+    {
+      "id": "3f5f",
+      "cityName": "London",
+      "country": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2024-11-25T04:15:09.573Z",
+      "notes": "🚩",
+      "position": {
+        "lat": "43.00774621190648",
+        "lng": "-81.27560019493104"
+      }
+    }
+  ]
+}
